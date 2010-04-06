@@ -1,4 +1,4 @@
-BackLogger-Login
+backlogger-login
 ===
 
 This app is currently needed to log into the BackLogger app. (¡,¡)
