@@ -6,7 +6,7 @@ function() {
     name: username,
     password: password,
     success: function() {
-      window.location = '/backlogger-dev/_design/backlogger/index.html';
+      window.location = '/backlogger/_design/backlogger/index.html';
     }
   });
   return false;
